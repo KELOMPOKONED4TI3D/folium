@@ -84,6 +84,11 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
+folium.Marker(
+    location=[-0.8988307,100.4176525],
+    popup='Pasar Belimbing, Jl. Pepaya, Belimbing Raya, Kuranji, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
 folium.Marker(
     location=[-0.7724924, 100.6402682],
