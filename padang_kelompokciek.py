@@ -66,26 +66,26 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.8970898,100.3664311],
+    location=[-0.8970898, 100.3664311],
     popup='Pasar Nanggalo
 Surau Gadang, Nanggalo, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.9920046,100.3807497],
+    location=[-0.9920046, 100.3807497],
     popup='Pasar Gaung. Teluk Bayur, South Padang, Padang City, West Sumatra', 
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.7724924,100.6402682],
+    location=[-0.7724924, 100.6402682],
     popup='Solok,Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.7724924,100.6402682],
+    location=[-0.7724924, 100.6402682],
     popup='Danau Singkarak,X Koto Singkarak, Solok, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
@@ -162,3 +162,14 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
+folium.Marker(
+    location=[-0.4403558, 100.3997056],
+    popup='Gunung Marapi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.370898, 100.202515],
+    popup='Danau Maninjau',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
