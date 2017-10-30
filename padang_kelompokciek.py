@@ -73,10 +73,17 @@ Surau Gadang, Nanggalo, Kota Padang, Sumatera Barat',
 ).add_to(m)
 
 folium.Marker(
-    location=[-0.9920046, 100.3807497],
+    location=[-0.9920046,100.3807497],
     popup='Pasar Gaung. Teluk Bayur, South Padang, Padang City, West Sumatra', 
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.Marker(
+    location=[-0.9489148,100.4369051],
+    popup='Pasar Bandar Buat, Lubuk Kilangan, Padang City, West Sumatra',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
 
 folium.Marker(
     location=[-0.7724924, 100.6402682],
@@ -173,3 +180,5 @@ folium.Marker(
     popup='Danau Maninjau',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+
