@@ -192,4 +192,63 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
+folium.Marker(
+    location=[-1.013903, 100.415672],
+    popup='Bungus Bar. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-1.008411, 100.431465],
+    popup='Bungus Tim. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-1.036559, 100.382026],
+    popup='Tlk. Bayur. Padang Sel., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-1.036559, 100.412239],
+    popup='Bungus Sel. Bungus Tlk. Kabung, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.802443, 100.311302],
+    popup='Batipuh Panjang, Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.818921, 100.360054],
+    popup='Balai Gadang, Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.857166, 100.382115],
+    popup='Aie Pacah, Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.918959, 100.377035],
+    popup='Lubuk Lintah, Kuranji, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.984431, 100.382642],
+    popup='Rawang, Padang Sel., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.844441, 100.347724],
+    popup='Koto Pulai, Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
