@@ -252,3 +252,20 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
+folium.maker(
+    location=[-0.4310896,100.3109674]
+    popup='Singgalang, Sepuluh Koto, Tanah Datar Regency, West Sumatra ',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+    
+folium.maker(
+    location=[-0.8581415,100.3088971]
+    popup='Jl. Teratai, Pasie Nan Tigo, Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.8052656,100.3658488]
+    popup='Air Terjun Lubuak Rantiang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
