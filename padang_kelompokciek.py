@@ -269,3 +269,9 @@ folium.maker(
     popup='Air Terjun Lubuak Rantiang',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.maker(
+    location=[-1.017626, 100.663484]
+    popup='Kebun Teh Alahan Panjang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
