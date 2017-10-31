@@ -275,3 +275,70 @@ folium.maker(
     popup='Kebun Teh Alahan Panjang',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+folium.maker(
+    location=[-0.840302, 100.371892]
+    popup='Padang.Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.852660, 100.407597]
+    popup='Lubuk Minturun. Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.870511, 100.383221]
+    popup='Aie Pacah. Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.925093, 100.360905]
+    popup='Flamboyan Baru
+Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+folium.maker(
+    location=[-0.953928, 100.474202]
+    popup='Indarung. Lubuk Kilangan, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.939510, 100.357129]
+    popup='Padang Pasir. Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.939510, 100.381505]
+    popup='Andalas. Padang Tim., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.842018, 100.340306]
+    popup='Koto Pulai. Koto Tangah, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.807264, 100.497897]
+    popup='Lambung Bukit. Pauh, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.943876, 100.410179]
+    popup='Tanah Sirah Piai Nan XX. Lubuk Begalung, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.877966, 100.408119]
+    popup='Gn. Sarik
+Kuranji, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
