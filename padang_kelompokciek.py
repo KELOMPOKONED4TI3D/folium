@@ -342,3 +342,5 @@ folium.maker(
 Kuranji, Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+
+m.save('index.html')
