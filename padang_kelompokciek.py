@@ -344,6 +344,48 @@ Kuranji, Kota Padang, Sumatera Barat',
 ).add_to(m)
 
 folium.maker(
+    location=[-0.902939,100.3585793]
+    popup='Duta Pesona
+    Lapai, Nanggalo, Kota Padang, Sumatera Barat',
+     icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-1.0175511,100.3663022]
+    popup='Pelabuhan Teluk Bayur
+    Jl.Semarang No.3 Teluk Bayur',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.907911,100.3489483]
+    popup='Ion Hotel
+    Ula Karang, Ulak Karang Utara, Padang, Sumatera Barat',
+     icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.962527,100.3557373]
+    popup='Brigittes House
+    Berok Nipah, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.9554046,100.3572251]
+    popup='Hotel Pangeran City
+    Padang Bar., Kota Padang, Sumatera Barat ',
+     icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.9476369,100.3640546]
+    popup='Hotel Musafir Inn
+    Sawahan, Padang, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
     location=[-0.2257935, 99.9675594]
     popup='Talu
 Talu, Kabupaten Pasaman Barat, Sumatera Barat',
