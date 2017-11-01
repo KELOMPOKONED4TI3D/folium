@@ -386,6 +386,48 @@ folium.maker(
 ).add_to(m)
 
 folium.maker(
+    location=[-0.9547283,100.3621297]
+    popup='Grand Zuri Padang Hotel
+    Alang Laweh, Padang Sel., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.951905,100.3515143
+    popup='Sofyan Inn Rangkayo Basa - Hotel Syariah
+    Belakang Tangsi, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.9514773,100.3528936]
+    popup='Hotel Hangtuah
+    Padang Barat, Olo, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+folium.maker(
+    location=[--0.9616602,100.3580103]
+    popup='Wisma Mutiara Hotel
+    , Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
+    location=[-0.957343,100.3547913]              
+    popup='Grand Inna Padang Hotel
+    Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+folium.maker(
+    location=[-0.961824,100.3550005]              
+    popup='dOx Ville Hotel
+    Berok Nipah, Padang Bar., Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.maker(
     location=[-0.2257935, 99.9675594]
     popup='Talu
 Talu, Kabupaten Pasaman Barat, Sumatera Barat',
