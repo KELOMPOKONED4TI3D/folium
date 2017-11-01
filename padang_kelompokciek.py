@@ -344,7 +344,7 @@ Kuranji, Kota Padang, Sumatera Barat',
 ).add_to(m)
 
 folium.maker(
-    location=[-0.877966, 100.408119]
+    location=[-0.2257935, 99.9675594]
     popup='Talu
 Talu, Kabupaten Pasaman Barat, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
