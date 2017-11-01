@@ -433,5 +433,84 @@ folium.maker(
 Talu, Kabupaten Pasaman Barat, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-
+              
+folium.maker(
+    location=[-1.128295, 100.352864]
+    popup='Tlk. Kabung Selatan',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+folium.maker(
+    location=[-0.893081, 100.390214]
+    popup='Sungai Sapih',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+folium.maker(
+    location=[-0.879768, 100.361075]
+    popup='Dadok Tunggul Hitam',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+ folium.maker(
+    location=[-0.910741, 100.348359]
+    popup='Ulang Karang Utara',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+folium.maker(
+    location=[-0.885236, 100.349351]
+    popup='Parupuk Tabing',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+              
+folium.maker(
+    location=[-0.845293, 100.329740]
+    popup='Batang Kabung Ganting',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 m.save('index.html')
+              
+folium.maker(
+    location=[-0.845211, 100.351445]
+    popup='Koto Pulai',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+folium.maker(
+    location=[-0.838113, 100.325007]
+    popup='Lubuak Buaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+ folium.maker(
+    location=[-0.863691, 100.401928]
+    popup='Jalan Raya Sei Lareh',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)             
+              
+folium.maker(
+    location=[-0.881041, 100.432816]
+    popup='Kuranji',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+folium.maker(
+    location=[-0.906953, 100.356433]
+    popup='Gg. Senggol No.10',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
