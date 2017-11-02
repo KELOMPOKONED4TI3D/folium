@@ -397,7 +397,7 @@ folium.maker(
 ).add_to(m)
               
 folium.maker(
-    location=[--0.9616602,100.3580103]
+    location=[-0.9616602,100.3580103]
     popup='Wisma Mutiara Hotel, Padang Bar., Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
@@ -456,7 +456,6 @@ folium.maker(
     popup='Batang Kabung Ganting',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-m.save('index.html')
               
 folium.maker(
     location=[-0.845211, 100.351445]
@@ -487,9 +486,16 @@ folium.maker(
     popup='Gg. Senggol No.10',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)              
+             
+folium.maker(
+    location=[-1.509435, 101.0519442]
+    popup='Muara Labuh',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)                
               
               
-              
+m.save('index.html')              
+            
               
               
               
