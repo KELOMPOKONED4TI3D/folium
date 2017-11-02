@@ -121,6 +121,24 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
+    location=[-0.9608835,100.3600758],
+    popup='Pasar Tanah Kongsi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.2689542,100.5007418],
+    popup='Pasar Tradisional Piladang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.9498982,100.3581119],
+    popup='Pasar Raya Padang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
     location=[-0.4611586,100.5080809,],
     popup='SIMABUR',
     icon=folium.Icon(icon='info-sign')
