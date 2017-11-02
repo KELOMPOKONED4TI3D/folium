@@ -108,6 +108,12 @@ folium.Marker(
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
+olium.Marker(
+    location=[-0.8328086,100.324893],
+    popup='Pasar Lubuk Buaya',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
 folium.Marker(
     location=[-0.3408477,100.381262],
     popup='Pasar Padang Lua Bukittinggi',
