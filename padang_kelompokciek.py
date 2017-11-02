@@ -546,6 +546,84 @@ folium.maker(
     popup='Muara Labuh',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
+              
+folium.maker(
+    location=[-0.965149, 100.419951]
+    popup='Kp. Jua Nan XX',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+folium.maker(
+    location=[-0.946025, 100.423085]
+    popup='Piai Tangah',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+              
+folium.maker(
+    location=[-0.932322, 100.391553]
+    popup='Anduring',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+              
+folium.maker(
+    location=[-0.926185, 100.407904]
+    popup='BMT Al Muhsin',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
 
-
+              
+folium.maker(
+    location=[-0.889703, 100.414205]
+    popup='Pusat Layanan Autis Kota Padang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+               
+folium.maker(
+    location=[-0.892041, 100.412145]
+    popup='Pabrik Tahu ATB',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)             
+              
+               
+folium.maker(
+    location=[-0.899141, 100.412444]
+    popup='Rumah Sakit Belimbing',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)             
+              
+               
+folium.maker(
+    location=[-0.900330, 100.420414]
+    popup='SDN 49 Kuranji',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)             
+              
+               
+folium.maker(
+    location=[-0.903961, 100.414673]
+    popup='Mesjid Muhajirin, Kuranji',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+              
+              
+folium.maker(
+    location=[-0.910462, 100.411926]
+    popup='SMPN 28 Padang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+              
+folium.maker(
+    location=[-0.941867, 100.398975]
+    popup='Rumah Sakit Semen Padang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)              
+              
+              
+              
+              
+              
 m.save('index.html')
