@@ -4,13 +4,13 @@ m = folium.Map(
     location=[-0.94924 100.35427],
     zoom_start=10,
     )
-    
+
  folium.Marker(
     location=[-0.819430, 100.304417],
     popup='Padang Sarai',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-    
+
 folium.Marker(
     location=[-0.834507, 100.338057],
     popup='Batipuh Panjang',
@@ -74,7 +74,7 @@ Surau Gadang, Nanggalo, Kota Padang, Sumatera Barat',
 
 folium.Marker(
     location=[-0.9920046,100.3807497],
-    popup='Pasar Gaung. Teluk Bayur, South Padang, Padang City, West Sumatra', 
+    popup='Pasar Gaung. Teluk Bayur, South Padang, Padang City, West Sumatra',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
@@ -93,6 +93,36 @@ folium.Marker(
 folium.Marker(
     location=[-0.9434318,100.3756978],
     popup='Jalan Pasar Simpang Haru, Simpang Haru, Padang, Kota Padang, Sumatera Barat',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.949276,100.4333403],
+    popup='Pasar Banda Buek',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.9263408,100.3645203],
+    popup='pasar alai Jl. Ps. Alai Alai Parak Kopi Padang Utara Kota Padang',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.3408477,100.381262],
+    popup='Pasar Padang Lua Bukittinggi',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[-0.4611586,100.5080809,],
+    popup='SIMABUR',
+    icon=folium.Icon(icon='info-sign')
+).add_to(m)
+
+folium.Marker(
+    location=[0.5285918,101.43851],
+    popup='Pasar Kodim Pekanbaru',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
 
@@ -257,7 +287,7 @@ folium.maker(
     popup='Singgalang, Sepuluh Koto, Tanah Datar Regency, West Sumatra ',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-    
+
 folium.maker(
     location=[-0.8581415,100.3088971]
     popup='Jl. Teratai, Pasie Nan Tigo, Koto Tangah, Kota Padang, Sumatera Barat',
@@ -395,7 +425,7 @@ folium.maker(
     popup='Hotel Hangtuah. Padang Barat, Olo, Padang Bar., Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
     location=[-0.9616602,100.3580103]
     popup='Wisma Mutiara Hotel, Padang Bar., Kota Padang, Sumatera Barat',
@@ -403,13 +433,13 @@ folium.maker(
 ).add_to(m)
 
 folium.maker(
-    location=[-0.957343,100.3547913]              
+    location=[-0.957343,100.3547913]
     popup='Grand Inna Padang Hotel.Padang Bar., Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
-    location=[-0.961824,100.3550005]              
+    location=[-0.961824,100.3550005]
     popup='dOx Ville Hotel. Berok Nipah, Padang Bar., Kota Padang, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
@@ -419,90 +449,79 @@ folium.maker(
     popup='Talu. Talu, Kabupaten Pasaman Barat, Sumatera Barat',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
     location=[-1.128295, 100.352864]
     popup='Tlk. Kabung Selatan',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)              
-              
+).add_to(m)
+
 folium.maker(
     location=[-0.893081, 100.390214]
     popup='Sungai Sapih',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
     location=[-0.879768, 100.361075]
     popup='Dadok Tunggul Hitam',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
  folium.maker(
     location=[-0.910741, 100.348359]
     popup='Ulang Karang Utara',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
     location=[-0.885236, 100.349351]
     popup='Parupuk Tabing',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
-              
+
+
 folium.maker(
     location=[-0.845293, 100.329740]
     popup='Batang Kabung Ganting',
     icon=folium.Icon(icon='info-sign')
 ).add_to(m)
-              
+
 folium.maker(
     location=[-0.845211, 100.351445]
     popup='Koto Pulai',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)              
-              
+).add_to(m)
+
 folium.maker(
     location=[-0.838113, 100.325007]
     popup='Lubuak Buaya',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)              
-              
+).add_to(m)
+
  folium.maker(
     location=[-0.863691, 100.401928]
     popup='Jalan Raya Sei Lareh',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)             
-              
+).add_to(m)
+
 folium.maker(
     location=[-0.881041, 100.432816]
     popup='Kuranji',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)              
-              
+).add_to(m)
+
 folium.maker(
     location=[-0.906953, 100.356433]
     popup='Gg. Senggol No.10',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)              
-             
+).add_to(m)
+
 folium.maker(
     location=[-1.509435, 101.0519442]
     popup='Muara Labuh',
     icon=folium.Icon(icon='info-sign')
-).add_to(m)                
-              
-              
-m.save('index.html')              
-            
-              
-              
-              
-              
-              
-              
-              
-              
-              
-              
+).add_to(m)
+
+
+m.save('index.html')
